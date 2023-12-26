@@ -1,5 +1,5 @@
-# NFT-generate_images
 
+NFT Image Generator
 This Python script generates images by randomly combining facial features such as eyes, nose, mouth, ears, and face. The resulting images can be used to create unique characters, icons, or any other application involving pixel art.
 
 Requirements
